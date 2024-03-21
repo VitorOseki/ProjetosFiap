@@ -1,0 +1,4 @@
+RN24: Um departamento pode ter nenhum ou vários funcionários e 
+cada funcionário deve pertencer a um único departamento.
+
+Nome da entidade definida: T_MEC_DEPARTAMENTO
